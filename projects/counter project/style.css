@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttons{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border: 1cap;
+    border-radius: 500000000000px;    
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttons:hover{
+    color: grey;
+} 
